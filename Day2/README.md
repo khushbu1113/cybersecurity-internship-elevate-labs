@@ -51,7 +51,7 @@ Analyze a sample phishing email and identify the following:
 ## 📄 Files Included
 - `README.md` – This summary file
 - `Phishing.docx` – Detailed report with screenshots and step-by-step explanation
-- `images/` – Folder containing all analysis tool screenshots
+
 
 ---
 
